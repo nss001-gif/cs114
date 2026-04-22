@@ -1,0 +1,10 @@
+// clone repository: git clone (HTTPS link from github)
+//git init: initialize new repo
+//git branch: To check which branch you are on
+//git add . : To add all the new files, so that you can commit and push to repo.
+// git commit -m: To commit previously added files (-m: is added to add a commit message)
+//git push: To push the code onto the repo. (When you create a new repo, use git push -u origin main)
+
+----
+cd - is used to travel through the folders.
+ls - prints all files/folder in current folder
